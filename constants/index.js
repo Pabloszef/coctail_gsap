@@ -15,10 +15,6 @@ const navLinks = [
         id: "contact",
         title: "Contact",
     },
-    {
-        id: "home",
-        title: "Velvet Pour",
-    },
 ];
 
 const cocktailLists = [
